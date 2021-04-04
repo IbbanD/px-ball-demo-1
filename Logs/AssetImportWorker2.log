@@ -1,0 +1,1438 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 16276 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Mahi/Documents/Unity/MRTK/Test 3
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+62137
+Successfully changed project path to: C:/Users/Mahi/Documents/Unity/MRTK/Test 3
+C:/Users/Mahi/Documents/Unity/MRTK/Test 3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 121.79 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 4.24 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mahi/Documents/Unity/MRTK/Test 3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56724
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.015851 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.13 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.763 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015154 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.35 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] Error loading subsystem: Display (1) (header mismatch?)
+[XR] [XR Mesh Provider]: RegisterLifecycleProvider.
+[XR] [XR Input Provider]: RegisterLifecycleProvider.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.084 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Unloading 3516 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.0 MB.
+System memory in use after: 157.1 MB.
+
+Unloading 2065 unused Assets to reduce memory usage. Loaded Objects now: 3740.
+Total: 7.383700 ms (FindLiveObjects: 1.019700 ms CreateObjectMapping: 0.451100 ms MarkObjects: 2.886700 ms  DeleteObjects: 3.024500 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.microsoft.mixedreality.toolkit.examples/StandardAssets/Models/Materials/8.mat
+  artifactKey: Guid(bc50df427b3cb4b48931176cb316d8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.examples/StandardAssets/Models/Materials/8.mat using Guid(bc50df427b3cb4b48931176cb316d8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353470316e1ceafe646d041398dc7118') in 0.254845 seconds
+  Import took 0.261428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.examples/StandardAssets/Models/Tree.fbm/6.png
+  artifactKey: Guid(08640538943897847b0d7d46ae188811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.examples/StandardAssets/Models/Tree.fbm/6.png using Guid(08640538943897847b0d7d46ae188811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c748cd2e505dd2024ce10eaa7c55bdc6') in 0.118800 seconds
+  Import took 0.126189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7257a87f908b203510a9fd8614282b14') in 0.059531 seconds
+  Import took 0.068707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.examples/StandardAssets/Models/Materials/5.mat
+  artifactKey: Guid(b62873551dfeef943be6324c304cd0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.examples/StandardAssets/Models/Materials/5.mat using Guid(b62873551dfeef943be6324c304cd0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c0657a1cd33179d97b358442c19049') in 0.069313 seconds
+  Import took 0.076172 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.102489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.22 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.48 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 10.549 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.30 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.41 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.1 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3786.
+Total: 9.754900 ms (FindLiveObjects: 1.440200 ms CreateObjectMapping: 0.635100 ms MarkObjects: 6.805500 ms  DeleteObjects: 0.872200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014105 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.38 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 10.292 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.65 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 144.1 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3790.
+Total: 4.761600 ms (FindLiveObjects: 0.515600 ms CreateObjectMapping: 0.297700 ms MarkObjects: 2.663700 ms  DeleteObjects: 1.283100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012990 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.692 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.22 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3794.
+Total: 17.237200 ms (FindLiveObjects: 12.057800 ms CreateObjectMapping: 1.256400 ms MarkObjects: 3.187200 ms  DeleteObjects: 0.733500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012912 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.627 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.28 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 144.4 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3798.
+Total: 6.358200 ms (FindLiveObjects: 0.688700 ms CreateObjectMapping: 0.520000 ms MarkObjects: 4.470100 ms  DeleteObjects: 0.677300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.64 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.37 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 11.670 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.85 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.38 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 144.4 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3802.
+Total: 30.135800 ms (FindLiveObjects: 0.943300 ms CreateObjectMapping: 3.213600 ms MarkObjects: 22.974300 ms  DeleteObjects: 3.001500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014715 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  7.232 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 3.98 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.65 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3806.
+Total: 15.025400 ms (FindLiveObjects: 1.336400 ms CreateObjectMapping: 1.071100 ms MarkObjects: 9.489800 ms  DeleteObjects: 3.123000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013402 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.22 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 16.226 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.49 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.27 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3810.
+Total: 15.335600 ms (FindLiveObjects: 2.480700 ms CreateObjectMapping: 2.412800 ms MarkObjects: 8.250400 ms  DeleteObjects: 2.189100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019846 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.750 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 6.39 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.70 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3814.
+Total: 15.114000 ms (FindLiveObjects: 1.213600 ms CreateObjectMapping: 1.142100 ms MarkObjects: 10.764100 ms  DeleteObjects: 1.988900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013345 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.63 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.70 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 16.825 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.53 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.26 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.2 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3818.
+Total: 11.050800 ms (FindLiveObjects: 1.114300 ms CreateObjectMapping: 1.429600 ms MarkObjects: 6.952900 ms  DeleteObjects: 1.551900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.544 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.21 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.7 MB.
+System memory in use after: 150.1 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3822.
+Total: 6.763300 ms (FindLiveObjects: 1.023200 ms CreateObjectMapping: 0.508600 ms MarkObjects: 3.207700 ms  DeleteObjects: 2.021200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.088 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.32 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.7 MB.
+System memory in use after: 150.1 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3826.
+Total: 4.733900 ms (FindLiveObjects: 0.528400 ms CreateObjectMapping: 0.403600 ms MarkObjects: 3.086300 ms  DeleteObjects: 0.713700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.484 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.35 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.24 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.7 MB.
+System memory in use after: 150.1 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3830.
+Total: 4.305200 ms (FindLiveObjects: 0.532700 ms CreateObjectMapping: 0.361500 ms MarkObjects: 2.715900 ms  DeleteObjects: 0.693400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.193 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.59 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.24 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.8 MB.
+System memory in use after: 150.2 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3834.
+Total: 5.296200 ms (FindLiveObjects: 0.506800 ms CreateObjectMapping: 0.537600 ms MarkObjects: 3.360000 ms  DeleteObjects: 0.889900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013179 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.22 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 14.998 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.90 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.48 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.8 MB.
+System memory in use after: 150.2 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3838.
+Total: 12.441600 ms (FindLiveObjects: 3.281600 ms CreateObjectMapping: 1.194800 ms MarkObjects: 5.674800 ms  DeleteObjects: 2.287600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.66 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.25 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 16.294 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 4.56 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 2.80 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.8 MB.
+System memory in use after: 150.1 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3842.
+Total: 22.905800 ms (FindLiveObjects: 1.674200 ms CreateObjectMapping: 1.626400 ms MarkObjects: 16.207200 ms  DeleteObjects: 3.394800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1601.401384 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/AnimationButton.prefab
+  artifactKey: Guid(d5e0e8cc740eb134789fd1f6bb5bb80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/AnimationButton.prefab using Guid(d5e0e8cc740eb134789fd1f6bb5bb80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d0bcd528aae808c6e3f2c38a60c5c8') in 0.576894 seconds
+  Import took 0.602524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/ButtonHoloLens1Toggle.prefab
+  artifactKey: Guid(4b1ffbebacd36694ebea9fb6d437c68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/ButtonHoloLens1Toggle.prefab using Guid(4b1ffbebacd36694ebea9fb6d437c68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9374535c1361a68e2584080fb17850') in 0.246914 seconds
+  Import took 0.254554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Button@4x.png
+  artifactKey: Guid(aa356632480554016ab8f4200032981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Button@4x.png using Guid(aa356632480554016ab8f4200032981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb91c0eabd16409bb2c8a536077d1a23') in 0.073205 seconds
+  Import took 0.079700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/StandardAssets/Sprites/DefaultIconsSpriteSheet.psd
+  artifactKey: Guid(20f25674b9512834f88938d45ed495d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/StandardAssets/Sprites/DefaultIconsSpriteSheet.psd using Guid(20f25674b9512834f88938d45ed495d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd406cfcc96cba79af3e29131dea9096d') in 0.106299 seconds
+  Import took 0.112965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBorders.asset
+  artifactKey: Guid(b1ef68ffe69fad14a8d8401f7bd17db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBorders.asset using Guid(b1ef68ffe69fad14a8d8401f7bd17db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8c218f42f28a34c48f12dd7199ce79') in 0.020088 seconds
+  Import took 0.026985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Button@2x.png
+  artifactKey: Guid(1c37f00575bd6494ea726be5afee89b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Button@2x.png using Guid(1c37f00575bd6494ea726be5afee89b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a69dd6b8e7ee042bc5723b1d44036d3') in 0.054704 seconds
+  Import took 0.064002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBordersSelected.asset
+  artifactKey: Guid(6309da53723ca964fa65893eb0df5b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBordersSelected.asset using Guid(6309da53723ca964fa65893eb0df5b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7e0557d3391bb951e803f028b16cfe') in 0.025174 seconds
+  Import took 0.035846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonLabelColor.asset
+  artifactKey: Guid(afb9a653b3359b345aeb3ab2e0479189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonLabelColor.asset using Guid(afb9a653b3359b345aeb3ab2e0479189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1db267a005a81dcb96d2a100f46be5') in 0.028663 seconds
+  Import took 0.037487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/AppBarButtonBackgroundTheme.asset
+  artifactKey: Guid(42f40fd9294bfa041a76d7f4068ae3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/AppBarButtonBackgroundTheme.asset using Guid(42f40fd9294bfa041a76d7f4068ae3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2351878ec812e8cf30a1eee4f8b862b5') in 0.038317 seconds
+  Import took 0.046537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBackgroundSelected.asset
+  artifactKey: Guid(435bbaee4d9763b4891ab39b7462ec31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBackgroundSelected.asset using Guid(435bbaee4d9763b4891ab39b7462ec31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91994c8975b0a3ecb39f5c729b2c909e') in 0.019593 seconds
+  Import took 0.035752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Button.png
+  artifactKey: Guid(2a5d0a7febdc741039abf135883517e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Button.png using Guid(2a5d0a7febdc741039abf135883517e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6eec609c23eb5233e399af0b02b868b') in 0.060027 seconds
+  Import took 0.080620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Meshes/Sliders/Volumetric_UI_Components.fbx
+  artifactKey: Guid(fd9ad33176d03dd42885a4dce3cb38fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Meshes/Sliders/Volumetric_UI_Components.fbx using Guid(fd9ad33176d03dd42885a4dce3cb38fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2679131fc8a71bd9daa39fb32270cb') in 0.234843 seconds
+  Import took 0.241332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/ButtonHoloLens1.prefab
+  artifactKey: Guid(80cec532ae7b6c1429d0f5494e7dbd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/ButtonHoloLens1.prefab using Guid(80cec532ae7b6c1429d0f5494e7dbd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba220e4906a0569b100af121c4dde11') in 0.058015 seconds
+  Import took 0.066483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/Button.prefab
+  artifactKey: Guid(02c524b22137b5449904f5395141cc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/Button.prefab using Guid(02c524b22137b5449904f5395141cc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c7379ed0c038e909e0dc7cdf105db7') in 0.050203 seconds
+  Import took 0.057679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Meshes/Sliders/Button_Oval_Concave_12x24mm_optimized.fbx
+  artifactKey: Guid(fa3a0f81e3a63bd4db13ad99b3858f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Meshes/Sliders/Button_Oval_Concave_12x24mm_optimized.fbx using Guid(fa3a0f81e3a63bd4db13ad99b3858f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d63b55b19e27a80ee67dbdae0998142') in 0.078807 seconds
+  Import took 0.085318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/ButtonBackground.mat
+  artifactKey: Guid(136544d5b4710a948b76a024a29c5b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/ButtonBackground.mat using Guid(136544d5b4710a948b76a024a29c5b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6042f0d2d292f5b16469e05e8c671254') in 0.056213 seconds
+  Import took 0.063841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBackground.asset
+  artifactKey: Guid(61962e4d95d843842bb2dee96b41da6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonBackground.asset using Guid(61962e4d95d843842bb2dee96b41da6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7b16d0b5ccd7c22eeb0596112c88cd') in 0.009525 seconds
+  Import took 0.018234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/AppBarButtonTextTheme.asset
+  artifactKey: Guid(8e13c3fe1aec7be428a1f6be54b08d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/AppBarButtonTextTheme.asset using Guid(8e13c3fe1aec7be428a1f6be54b08d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb71a77af1834c0922c1674155ce70b') in 0.027181 seconds
+  Import took 0.050828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonLabel.asset
+  artifactKey: Guid(210ecfb82b9f09c4d835184cd0034155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonLabel.asset using Guid(210ecfb82b9f09c4d835184cd0034155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d850830437e04735897552a7080262') in 0.026135 seconds
+  Import took 0.032646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/AppBarButtonIconTheme.asset
+  artifactKey: Guid(60e63f25f69f72a4d9e322c210e715bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/AppBarButtonIconTheme.asset using Guid(60e63f25f69f72a4d9e322c210e715bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8d6134944442df881bafcce66edd1b') in 0.025346 seconds
+  Import took 0.035466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonLabelSelected.asset
+  artifactKey: Guid(689bdf5999aa8014694da2cb1c1c1a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Themes/ButtonLabelSelected.asset using Guid(689bdf5999aa8014694da2cb1c1c1a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd348c4f95b02d01c3ad87bc9ea95e02b') in 0.019003 seconds
+  Import took 0.029091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.309334 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/ColorButton.mat
+  artifactKey: Guid(745567f5ce7a31346bc19e4f940b9203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/ColorButton.mat using Guid(745567f5ce7a31346bc19e4f940b9203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6a61aed953a71849df004314fd2fe1') in 0.166123 seconds
+  Import took 0.174676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Meshes/HolographicButton/CompoundButtonMeshes.fbx
+  artifactKey: Guid(b566bbce04d66f4428421e81a3af0299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Meshes/HolographicButton/CompoundButtonMeshes.fbx using Guid(b566bbce04d66f4428421e81a3af0299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf5896bc22ee1bc47dba117ab46ebce') in 0.181999 seconds
+  Import took 0.712518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003576 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/d_Button@2x.png
+  artifactKey: Guid(0962795d1cafc460b9027de55b1c0a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/d_Button@2x.png using Guid(0962795d1cafc460b9027de55b1c0a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e20dc18ea823c62286c4ae9d368535a') in 0.302349 seconds
+  Import took 0.386533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000955 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled.png
+  artifactKey: Guid(ac5017dfbeee42347b3b45ecc572674e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled.png using Guid(ac5017dfbeee42347b3b45ecc572674e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532fd305a6c04fc3f59aa5578a4d13f3') in 0.284175 seconds
+  Import took 0.311171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonDisabled.png
+  artifactKey: Guid(91746a504b59769439bb2749c314d231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonDisabled.png using Guid(91746a504b59769439bb2749c314d231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a084a2caaca26199da4dc38343041f65') in 0.375462 seconds
+  Import took 0.797526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000875 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonEnabled@2x.png
+  artifactKey: Guid(2c85066ea99cfbe4f90294bf295ce543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonEnabled@2x.png using Guid(2c85066ea99cfbe4f90294bf295ce543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a71040f5483927e933a3d9c8315e536') in 0.331034 seconds
+  Import took 0.399209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Experimental/InteractiveElement/Prefabs/CompressableButtonCube.prefab
+  artifactKey: Guid(cd2f1e5c2c0ca934ab7b77568de1b45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Experimental/InteractiveElement/Prefabs/CompressableButtonCube.prefab using Guid(cd2f1e5c2c0ca934ab7b77568de1b45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e14259a36f583471b919f3ba3087c46') in 0.419695 seconds
+  Import took 0.629282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000749 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Experimental/InteractiveElement/Prefabs/CompressableButton.prefab
+  artifactKey: Guid(445915dc8698413468747c2fb539f935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Experimental/InteractiveElement/Prefabs/CompressableButton.prefab using Guid(445915dc8698413468747c2fb539f935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ccefb9c8a46c7cffb4414e399aa440') in 0.567472 seconds
+  Import took 0.588090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled.png
+  artifactKey: Guid(9c6daec86666cbb4b9e558b839a103db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled.png using Guid(9c6daec86666cbb4b9e558b839a103db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eea18ff1e84876c76d9d391b050688d') in 0.063326 seconds
+  Import took 0.070605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonDisabled@2x.png
+  artifactKey: Guid(6f0b77e050cdb12478ed9514b3a0e40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonDisabled@2x.png using Guid(6f0b77e050cdb12478ed9514b3a0e40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba9144cbf50c7262c43864d9b5f2831') in 0.056477 seconds
+  Import took 0.065705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonDisabled.png
+  artifactKey: Guid(6ab002208ec290544b44bc263dc58a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonDisabled.png using Guid(6ab002208ec290544b44bc263dc58a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0383597eba5ac08803a55f16be7874') in 0.053136 seconds
+  Import took 0.060141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonDisabled@2x.png
+  artifactKey: Guid(1f3ea4caa6e0ec74388e4d7d16690e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonDisabled@2x.png using Guid(1f3ea4caa6e0ec74388e4d7d16690e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3f6b63a564b7d7e9b0d338d7c35f82') in 0.041974 seconds
+  Import took 0.048541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonEnabled.png
+  artifactKey: Guid(e8aa120f1b4731e43a2dd31eb70bbbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonEnabled.png using Guid(e8aa120f1b4731e43a2dd31eb70bbbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2ec908413839cda13176ee2b3e698b') in 0.051409 seconds
+  Import took 0.058520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled@2x.png
+  artifactKey: Guid(6192986415256ca47a97a97507406f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled@2x.png using Guid(6192986415256ca47a97a97507406f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c367a111a8b5b96c1bd85269e8d7a508') in 0.054009 seconds
+  Import took 0.060834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled.png
+  artifactKey: Guid(d18286874382ef042bbbdab5f71329c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled.png using Guid(d18286874382ef042bbbdab5f71329c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802fb45ee43edd4ec5854bc9556e14ea') in 0.118631 seconds
+  Import took 0.270747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000724 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled@2x.png
+  artifactKey: Guid(0f1c9a12872a30f45bab34f536332bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled@2x.png using Guid(0f1c9a12872a30f45bab34f536332bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea593b55e1806da1ab192db5757258f7') in 0.071114 seconds
+  Import took 0.086272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/d_Button.png
+  artifactKey: Guid(0309256f03c114697813e2296f0a1f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/d_Button.png using Guid(0309256f03c114697813e2296f0a1f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfccbfddd5af55bb461970be1ae558c9') in 0.050385 seconds
+  Import took 0.058622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonDisabled.png
+  artifactKey: Guid(b3644a971cca0bd4eb357cb9aca4dde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonDisabled.png using Guid(b3644a971cca0bd4eb357cb9aca4dde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd280f5b11d418eeeaa0a6963a624f4c') in 0.052060 seconds
+  Import took 0.059000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/d_Button@4x.png
+  artifactKey: Guid(db3dc7a02ac6d4e90bbe905a44ac265b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/d_Button@4x.png using Guid(db3dc7a02ac6d4e90bbe905a44ac265b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff32669cd547ea3ddd34450c6c94787') in 0.044277 seconds
+  Import took 0.051220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonDisabled@2x.png
+  artifactKey: Guid(9c706019afb28944eb19b500ea0da38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonDisabled@2x.png using Guid(9c706019afb28944eb19b500ea0da38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c87a085f3823bf33dd122dbb3aa83e') in 0.046795 seconds
+  Import took 0.053437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonEnabled.png
+  artifactKey: Guid(fbcdeb07ee516a64daa01ce462874280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonEnabled.png using Guid(fbcdeb07ee516a64daa01ce462874280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b244318a50502ea4cc488dc0797c4aa') in 0.052072 seconds
+  Import took 0.059683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonDisabled.png
+  artifactKey: Guid(52ee3ba2abc3da14a95cdf64d32ae0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonDisabled.png using Guid(52ee3ba2abc3da14a95cdf64d32ae0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceec286750a3c10bd5079bc327d36a66') in 0.047660 seconds
+  Import took 0.055148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/ColorButtonProximity.mat
+  artifactKey: Guid(bdccf05745da15347b32e2a4ff255dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/ColorButtonProximity.mat using Guid(bdccf05745da15347b32e2a4ff255dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65a4047ca931c23cd8400493885d4da') in 0.071206 seconds
+  Import took 0.078099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonEnabled@2x.png
+  artifactKey: Guid(fd12dbe3b63ae464f824b4a74c0e1766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonEnabled@2x.png using Guid(fd12dbe3b63ae464f824b4a74c0e1766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c351e51ebc240ecd7eb3c1a17000b133') in 0.056839 seconds
+  Import took 0.064352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Experimental/InteractiveElement/Prefabs/CompressableButtonToggle.prefab
+  artifactKey: Guid(92195f9c5fa2a794fb2973255c7fd874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Experimental/InteractiveElement/Prefabs/CompressableButtonToggle.prefab using Guid(92195f9c5fa2a794fb2973255c7fd874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '749ebfb03515785c456c12cf3ac66fd7') in 0.100982 seconds
+  Import took 0.130501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled@2x.png
+  artifactKey: Guid(db15c78579dee4a4db85f392634c8ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled@2x.png using Guid(db15c78579dee4a4db85f392634c8ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb3b4d482c17e352580daf2e7c463f7') in 0.046422 seconds
+  Import took 0.057026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonDisabled@2x.png
+  artifactKey: Guid(77d926c9a4ddcc940b8c000b45cbfb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonDisabled@2x.png using Guid(77d926c9a4ddcc940b8c000b45cbfb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f37f570d2668c7b0efe9380ad203e7') in 0.048522 seconds
+  Import took 0.056064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled@2x.png
+  artifactKey: Guid(e54e20c7a9730fe4c822d63228527ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled@2x.png using Guid(e54e20c7a9730fe4c822d63228527ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86f57cf4b0219047b951cb52d29fac7') in 0.040168 seconds
+  Import took 0.046463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/DefaultButton.mat
+  artifactKey: Guid(11a74654c6e973049993e13dd7e9733f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Materials/DefaultButton.mat using Guid(11a74654c6e973049993e13dd7e9733f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9511dd4f8fda8c05f9ad3df37136bab7') in 0.189853 seconds
+  Import took 0.199428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonEnabled.png
+  artifactKey: Guid(c207dcd389fb689489f5266468cd4609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonEnabled.png using Guid(c207dcd389fb689489f5266468cd4609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd875659f88f6229cdcdf1e60ddaf01ef') in 0.048557 seconds
+  Import took 0.056231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonDisabled.png
+  artifactKey: Guid(d55a54a15106e3f418a43134888f2211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonDisabled.png using Guid(d55a54a15106e3f418a43134888f2211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587d1de403609ad78f91f4f4a1d6aa24') in 0.049987 seconds
+  Import took 0.057296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled.png
+  artifactKey: Guid(0e5ba0f04df278944a8f5a62f64f5aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled.png using Guid(0e5ba0f04df278944a8f5a62f64f5aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f46e5a5eef3bfe28e22b4aab1dc658f') in 0.046623 seconds
+  Import took 0.058469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045525 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineCollapseMarkerButtonDisabled.png
+  artifactKey: Guid(40947ddc2dd4f0d499a92d0f3675c4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineCollapseMarkerButtonDisabled.png using Guid(40947ddc2dd4f0d499a92d0f3675c4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b96cb059787c7537accfb5fa7b771b') in 0.067142 seconds
+  Import took 0.092552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050023 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineCollapseMarkerButtonEnabled.png
+  artifactKey: Guid(2446ee609b613cd4e9142ccc55cb7c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineCollapseMarkerButtonEnabled.png using Guid(2446ee609b613cd4e9142ccc55cb7c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b3ecfc47f9845992788ace332f822e') in 0.095718 seconds
+  Import took 0.200774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonEnabled@2x.png
+  artifactKey: Guid(43ed4593c5ddda0439fcc1bdaf8309fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonEnabled@2x.png using Guid(43ed4593c5ddda0439fcc1bdaf8309fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d83834a56d5aea97db2fe2993bfff43') in 0.060792 seconds
+  Import took 0.068983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonDisabled@2x.png
+  artifactKey: Guid(fd194f75fe3d7ca4488fa775ae832fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonDisabled@2x.png using Guid(fd194f75fe3d7ca4488fa775ae832fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e6c10b5c854b531054e83377655358') in 0.060152 seconds
+  Import took 0.069196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.837079 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/UnityUIInteractables/UnityUIButton.prefab
+  artifactKey: Guid(f15ddb9bd0bf19d478c51ea991c6a7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/UnityUIInteractables/UnityUIButton.prefab using Guid(f15ddb9bd0bf19d478c51ea991c6a7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cdcd7e423fb7138f82907c86ee43a72') in 0.043330 seconds
+  Import took 0.051525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111029 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/UnityUIInteractables/UnityUIButton.prefab
+  artifactKey: Guid(f15ddb9bd0bf19d478c51ea991c6a7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/UnityUIInteractables/UnityUIButton.prefab using Guid(f15ddb9bd0bf19d478c51ea991c6a7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cdcd7e423fb7138f82907c86ee43a72') in 0.028848 seconds
+  Import took 0.036567 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015320 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.23 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  7.443 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 3.00 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.37 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.3 MB.
+System memory in use after: 150.4 MB.
+
+Unloading 441 unused Assets to reduce memory usage. Loaded Objects now: 3857.
+Total: 12.079800 ms (FindLiveObjects: 0.946500 ms CreateObjectMapping: 2.198300 ms MarkObjects: 5.290600 ms  DeleteObjects: 3.642200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.147833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.29 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.923 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.86 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.24 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.4 MB.
+System memory in use after: 150.8 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3861.
+Total: 14.067500 ms (FindLiveObjects: 1.318100 ms CreateObjectMapping: 1.908000 ms MarkObjects: 10.118300 ms  DeleteObjects: 0.716600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 394.934981 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/PressableButtonHoloLens2Circular_48x48.prefab
+  artifactKey: Guid(2ba5d9246f2c88f48a938fa66e6d3eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation/SDK/Features/UX/Interactable/Prefabs/PressableButtonHoloLens2Circular_48x48.prefab using Guid(2ba5d9246f2c88f48a938fa66e6d3eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f392e52bddc69636859e2f31b02dc9d5') in 0.243282 seconds
+  Import took 0.251915 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 11.50 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.77 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  7.838 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.69 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.5 MB.
+System memory in use after: 150.9 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3866.
+Total: 4.719900 ms (FindLiveObjects: 0.470900 ms CreateObjectMapping: 0.350800 ms MarkObjects: 3.217200 ms  DeleteObjects: 0.679300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  9.675 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 4.22 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.57 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.5 MB.
+System memory in use after: 150.9 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3870.
+Total: 13.001000 ms (FindLiveObjects: 0.954500 ms CreateObjectMapping: 1.618800 ms MarkObjects: 9.235200 ms  DeleteObjects: 1.190100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 241.859586 seconds.
+  path: Assets/UI
+  artifactKey: Guid(5681076306c9d0944a8a4460d273139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(5681076306c9d0944a8a4460d273139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8befb8862e503732e2042fe48b28e370') in 0.022904 seconds
+  Import took 0.033508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012303 seconds.
+  path: Assets/UI
+  artifactKey: Guid(5681076306c9d0944a8a4460d273139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(5681076306c9d0944a8a4460d273139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8befb8862e503732e2042fe48b28e370') in 0.009378 seconds
+  Import took 0.021380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.577651 seconds.
+  path: Assets/UI/Prefabs
+  artifactKey: Guid(bd827fc646c09514f9299a688f6580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Prefabs using Guid(bd827fc646c09514f9299a688f6580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a03b4177c45264f6fb256861c729c22') in 0.035970 seconds
+  Import took 0.050153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001192 seconds.
+  path: Assets/UI/Prefabs
+  artifactKey: Guid(bd827fc646c09514f9299a688f6580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Prefabs using Guid(bd827fc646c09514f9299a688f6580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a03b4177c45264f6fb256861c729c22') in 0.009844 seconds
+  Import took 0.019831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.126852 seconds.
+  path: Assets/UI/Prefabs/PressableButtonHoloLens2_AppButton.prefab
+  artifactKey: Guid(8c145d922cbabc849b30fa9695cf08a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Prefabs/PressableButtonHoloLens2_AppButton.prefab using Guid(8c145d922cbabc849b30fa9695cf08a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9417dcb6f5b2cd8082adba48717452a') in 0.205488 seconds
+  Import took 0.215456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.311259 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.369 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.30 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.6 MB.
+System memory in use after: 151.0 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3875.
+Total: 4.775900 ms (FindLiveObjects: 0.534500 ms CreateObjectMapping: 0.392500 ms MarkObjects: 3.098000 ms  DeleteObjects: 0.748000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014505 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.23 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  9.452 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.19 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.6 MB.
+System memory in use after: 151.0 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3879.
+Total: 4.478200 ms (FindLiveObjects: 0.480500 ms CreateObjectMapping: 0.321700 ms MarkObjects: 2.695200 ms  DeleteObjects: 0.978700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014577 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.89 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 19.131 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.26 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.67 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.6 MB.
+System memory in use after: 150.8 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3883.
+Total: 14.424600 ms (FindLiveObjects: 1.108800 ms CreateObjectMapping: 1.776600 ms MarkObjects: 7.954800 ms  DeleteObjects: 3.582600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014335 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.06 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Error when attempting to update scene info fields. Scene info data may be stale.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:RefreshSceneInfoFieldsInScriptableObjects () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:313)
+Microsoft.MixedReality.Toolkit.Editor.SceneInfoUtils:InitializeOnLoad () (at Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs:231)
+
+(Filename: Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@0e7ef8d95103-1617569958948/Core/Inspectors/PropertyDrawers/SceneInfoUtils.cs Line: 313)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 14.809 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(21) subTarget(0) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 4.88 ms, found 14 plugins.
+Preloading 2 native plugins for Editor in 0.91 ms.
+Unloading 3390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.7 MB.
+System memory in use after: 151.1 MB.
+
+Unloading 439 unused Assets to reduce memory usage. Loaded Objects now: 3887.
+Total: 15.782700 ms (FindLiveObjects: 1.123000 ms CreateObjectMapping: 1.261700 ms MarkObjects: 10.670400 ms  DeleteObjects: 2.722000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
